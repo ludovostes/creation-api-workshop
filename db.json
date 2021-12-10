@@ -1,0 +1,31 @@
+{
+    "Music":[
+        {
+            "id": 0,
+            "name": "La Pluie",
+            "author": "Orelsan feat Stromae",
+            "thumbnail": "https://cdn.radiofrance.fr/s3/cruiser-production/2017/09/ab26f978-8c0a-11e8-a11d-42010ae60007/600_sitesdefaultfiles2017092230923221687707_10155249125163218_4219957551754169113_n.jpg",
+            "style": "rap",
+            "realeaseDate": "2018",
+            "youtube": "https://www.youtube.com/watch?v=37StRy0LEbI"
+        },
+        {
+            "id": 1,
+            "name": "La Pluie",
+            "author": "Orelsan feat Stromae",
+            "thumbnail": "https://cdn.radiofrance.fr/s3/cruiser-production/2017/09/ab26f978-8c0a-11e8-a11d-42010ae60007/600_sitesdefaultfiles2017092230923221687707_10155249125163218_4219957551754169113_n.jpg",
+            "style": "rap",
+            "realeaseDate": "2018",
+            "youtube": "https://www.youtube.com/watch?v=37StRy0LEbI"
+        },
+        {
+            "id": 3,
+            "name": "La Pluie",
+            "author": "Orelsan feat Stromae",
+            "thumbnail": "https://cdn.radiofrance.fr/s3/cruiser-production/2017/09/ab26f978-8c0a-11e8-a11d-42010ae60007/600_sitesdefaultfiles2017092230923221687707_10155249125163218_4219957551754169113_n.jpg",
+            "style": "rap",
+            "realeaseDate": "2018",
+            "youtube": "https://www.youtube.com/watch?v=37StRy0LEbI"
+        } 
+    ]
+}
