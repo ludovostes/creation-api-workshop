@@ -1,0 +1,26 @@
+{
+  "name": "creation-api-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.37"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludovostes/creation-api-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludovostes/creation-api-workshop/issues"
+  },
+  "homepage": "https://github.com/ludovostes/creation-api-workshop#readme"
+}
